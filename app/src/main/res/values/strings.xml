@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="first_String">Погода в Вашем городе</string>
+    <string name="second_String">Введите название города</string>
+    <string name="third_String">Узнать погоду!</string>
+    <string name="error_String">Пожалуйста, введите название города</string>
+
+</resources>
